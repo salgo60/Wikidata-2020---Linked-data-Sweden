@@ -6,3 +6,5 @@
 * mer info
   * Wikidata what is it [video](https://www.youtube.com/watch?v=lmWmMIuCJVM)
   * 2019 oktober "Glimpse over Wikidata" Lydia Pintscher [Q18016466](https://www.wikidata.org/wiki/Q18016466) hennes presentation [video](https://media.ccc.de/v/wikidatacon2019-3-glimpse_over_wikidata)
+* Open Data [Examples - Hack for Sweden 2019](https://github.com/salgo60/open-data-examples)
+  * Presentation Hack4Sweden ["Maximize the usage of Open Data"](https://prezi.com/gxli-bpyese7/open-knowledge-oppen-data)
