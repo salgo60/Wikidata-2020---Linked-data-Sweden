@@ -19,6 +19,8 @@
      * [Creating iNaturalist places and linking to Wikidata using geojson](https://forum.inaturalist.org/t/creating-inaturalist-places-and-linking-to-wikidata-using-geojson/12220)
 <img src="The Challenge OpenData.png" alt="drawing" width="400"/>
 
+<img src="Silo.png" alt="drawing" width="400"/>
+
 <img src="Jupiter.png" alt="drawing" width="400"/>
 
 <img src="Reuse.png" alt="drawing" width="400"/>
