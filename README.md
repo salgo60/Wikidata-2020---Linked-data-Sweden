@@ -13,8 +13,10 @@
       * Presentation Hack4Sweden ["Maximize the usage of Open Data"](https://prezi.com/gxli-bpyese7/open-knowledge-oppen-data)
    * iNaturalist
      * [film vimeo](https://vimeo.com/229946260) plus ett papper om iNaturalist om hur [citizen science](https://en.wikipedia.org/wiki/Citizen_science) som iNaturalist kan hjälpa forskningen -  [Morphological Change during Rapid Population Expansion Confounds Leopard Frog Identifications in the Southwestern United States](https://bioone.org/journals/copeia/volume-108/issue-2/CH-19-222/Morphological-Change-during-Rapid-Population-Expansion-Confounds-Leopard-Frog-Identifications/10.1643/CH-19-222.full) 
+       * [Cool new paper about a study inspired by iNat Observations](https://forum.inaturalist.org/t/cool-new-paper-about-a-study-inspired-by-inat-observations/12351)
      * [Wikidata:WikiProject iNaturalist](https://www.wikidata.org/wiki/Wikidata:WikiProject_iNaturalist)
      * [Wikipedia Weekly Network om iNaturalist kopplingen](https://twitter.com/WikipediaWeekly/status/1258851809835102208?s=20)
+     * [Creating iNaturalist places and linking to Wikidata using geojson](https://forum.inaturalist.org/t/creating-inaturalist-places-and-linking-to-wikidata-using-geojson/12220)
 <img src="The Challenge OpenData.png" alt="drawing" width="400"/>
 
 <img src="Jupiter.png" alt="drawing" width="400"/>
