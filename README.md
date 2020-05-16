@@ -17,6 +17,10 @@
      * [Wikidata:WikiProject iNaturalist](https://www.wikidata.org/wiki/Wikidata:WikiProject_iNaturalist)
      * [Wikipedia Weekly Network om iNaturalist kopplingen](https://twitter.com/WikipediaWeekly/status/1258851809835102208?s=20)
      * [Creating iNaturalist places and linking to Wikidata using geojson](https://forum.inaturalist.org/t/creating-inaturalist-places-and-linking-to-wikidata-using-geojson/12220)
+  * Wikilambda
+    * the challenge is getting more WIkipedia knowledge in more Wikipedia languages video [Katherine Maher: "The Sum of All Knowledge"](https://youtu.be/ESVQknHESuA?t=1402) - the world is changing  
+    * Proposal [Wikilambda](https://meta.wikimedia.org/wiki/Wikilambda)
+    * GITHUB [prototype implementation](https://github.com/google/abstracttext)
 <img src="The Challenge OpenData.png" alt="drawing" width="400"/>
 
 <img src="Silo.png" alt="drawing" width="400"/>
