@@ -21,6 +21,7 @@
     * the challenge is getting more WIkipedia knowledge in more Wikipedia languages video [Katherine Maher: "The Sum of All Knowledge"](https://youtu.be/ESVQknHESuA?t=1402) - the world is changing  
     * Proposal [Wikilambda](https://meta.wikimedia.org/wiki/Wikilambda)
     * GITHUB [prototype implementation](https://github.com/google/abstracttext)
+## Open data challenge
 <img src="The Challenge OpenData.png" alt="drawing" width="400"/>
 
 <img src="Silo.png" alt="drawing" width="400"/>
