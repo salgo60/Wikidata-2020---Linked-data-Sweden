@@ -11,6 +11,14 @@
     * Svensk Facebook grupp [Släktforskning Semantisk Web](https://www.facebook.com/groups/345973895882090)
     * Open Data [Examples - Hack for Sweden 2019](https://github.com/salgo60/open-data-examples)
       * Presentation Hack4Sweden ["Maximize the usage of Open Data"](https://prezi.com/gxli-bpyese7/open-knowledge-oppen-data)
+    * statistik
+      * Grafana
+         * [Wikidata Query Service](https://grafana.wikimedia.org/d/000000489/wikidata-query-service?orgId=1&refresh=1m)  
+           * visar problemet med lag vid uppdatering
+         * [Wikidata Datamodel Statements](https://grafana.wikimedia.org/d/000000175/wikidata-datamodel-statements?orgId=1&refresh=30m&from=now%2Fy&to=now)
+         * user stats [Wikidata](https://wikidata.wikiscan.org/?page=1&menu=userstats)
+           * min profil [salgo60](https://wikidata.wikiscan.org/user/Salgo60)
+         * [stat wikidata.org](https://stats.wikimedia.org/#/wikidata.org)
    * iNaturalist
      * [film vimeo](https://vimeo.com/229946260) plus ett papper om iNaturalist om hur [citizen science](https://en.wikipedia.org/wiki/Citizen_science) som iNaturalist kan hjälpa forskningen -  [Morphological Change during Rapid Population Expansion Confounds Leopard Frog Identifications in the Southwestern United States](https://bioone.org/journals/copeia/volume-108/issue-2/CH-19-222/Morphological-Change-during-Rapid-Population-Expansion-Confounds-Leopard-Frog-Identifications/10.1643/CH-19-222.full) 
        * [Cool new paper about a study inspired by iNat Observations](https://forum.inaturalist.org/t/cool-new-paper-about-a-study-inspired-by-inat-observations/12351)
