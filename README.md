@@ -30,6 +30,10 @@
     * the challenge is getting more WIkipedia knowledge in more Wikipedia languages video [Katherine Maher: "The Sum of All Knowledge"](https://youtu.be/ESVQknHESuA?t=1402) - the world is changing  
     * Proposal [Wikilambda](https://meta.wikimedia.org/wiki/Wikilambda)
     * GITHUB [prototype implementation](https://github.com/google/abstracttext)
+    * Video
+      * [Wikidata, Knowledge Graphs, and Beyond](https://www.youtube.com/watch?v=Oips1aW738Q) 10 juni 2019
+      * [Keynote by Denny Vrandečić at SWAT4HCLS 2019](https://www.youtube.com/watch?v=yzVA7YLwhTE)
+      * [Keynote: Wikidata and Beyond](https://www.youtube.com/watch?v=LLiJ6E9sG6U&list=PLQVG_tuf3Q2fji-CwqEDRJpZuf23wevrq&index=13) 4 apr. 2019
 ## Open data challenge
 <img src="The Challenge OpenData.png" alt="drawing" width="400"/>
 
